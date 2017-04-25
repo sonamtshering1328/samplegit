@@ -1,3 +1,6 @@
 Hi
+<<<<<<< HEAD
 
 Whats up?
+=======
+>>>>>>> fe271ebe704054aeb455b3c0292436d4fb4f48de
